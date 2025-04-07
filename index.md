@@ -28,4 +28,4 @@ Regarding the look of our website, we want to include elements like a navigation
 
 ## Team
 
-BowFolios is designed, implemented, and maintained by [Ka'ili Benavente](https://kailibenavente.github.io), [Kimi Qi](https://kqimi.github.io/), [Jaylin Morimoto](https://cammoore.github.io/), [Ruhi Pirnia](https://cammoore.github.io/), [Naydel Espiritu](https://cammoore.github.io/), and [Lou Rae Robles](https://cammoore.github.io/).
+BowFolios is designed, implemented, and maintained by [Ka'ili Benavente](https://kailibenavente.github.io), [Kimi Qi](https://kqimi.github.io/), [Jaylin Morimoto](https://naydelly.github.io/), [Ruhi Pirnia](https://cammoore.github.io/), [Naydel Espiritu](https://cammoore.github.io/), and [Lou Rae Robles](https://cammoore.github.io/).
