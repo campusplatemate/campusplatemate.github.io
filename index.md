@@ -50,6 +50,6 @@ Once you are logged in, you can view, request, or post meals with the Plates pag
 
 ## Team
 
-Campus Plate Mate is designed, implemented, and maintained by [Ka'ili Benavente](https://kailibenavente.github.io), [Kimi Qi](https://kqimi.github.io/), [Jaylin Morimoto](https://naydelly.github.io/), [Ruhi Pirnia](https://cammoore.github.io/), [Naydel Espiritu](https://naydelly.github.io/), and [Lou Rae Robles](https://cammoore.github.io/).
+Campus Plate Mate is designed, implemented, and maintained by [Ka'ili Benavente](https://kailibenavente.github.io), [Kimi Qi](https://kqimi.github.io/), [Jaylin Morimoto](https://jaylin-m.github.io/), [Ruhi Pirnia](https://rpirnia.github.io/), [Naydel Espiritu](https://naydelly.github.io/), and [Lou Rae Robles](https://lrrobles.github.io/).
 
 See our [Team Contract](https://docs.google.com/document/d/1ZBsPm5ipDgzuAGX94x4z-A-nNO2-lngPQzCGNLIbtNc/edit?usp=sharing).
