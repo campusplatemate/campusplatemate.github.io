@@ -1,4 +1,4 @@
-# Bowfolios
+# Campus Plate Mate
 
 ## Table of contents
 
