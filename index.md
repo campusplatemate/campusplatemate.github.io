@@ -11,7 +11,6 @@
 
 Campus Plate Mate is a web application that provides pages to view and places to modify profiles, projects, and interests. It illustrates various technologies useful to ICS software engineering students, including:
 
-* [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
 * [React Bootstrap](https://react-bootstrap.github.io/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
