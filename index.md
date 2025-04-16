@@ -38,6 +38,10 @@ Sign out page:
 
 ![](images/signout.png)
 
+### Profile Page
+
+![](images/image.png)
+
 ### About page
 
 Before you log in, you can learn more about our project at the About page:
