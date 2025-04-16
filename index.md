@@ -26,21 +26,29 @@ Regarding the look of our website, we want to include elements like a navigation
 
 ### Sign in and sign up
 
-Sign up and log in page:
+Sign in page:
 
-![](images/loginPage.png)
+![](images/signin.png)
+
+Sign up page:
+
+![](images/signup.png)
+
+### About page
+
+Before you log in, you can learn more about our project at the About page:
+
+![](images/landing.png)
+
+## Further Inspiration
+
+For pages we have not constructed yet, here are our inspiration mockups!
 
 ### Home page
 
 After logging in, you are taken to the home page, which presents a form where you can complete and/or update your personal profile:
 
 ![](images/mainPage.png)
-
-### About page
-
-Once you are logged in, you can learn more about our project at the About page:
-
-![](images/aboutPage.png)
 
 ### Plates page
 
