@@ -38,6 +38,10 @@ Sign out page:
 
 ![](images/signout.png)
 
+### Rewards Page
+
+![](images/rewards-page.png)
+
 ### Profile Page
 
 ![](images/image.png)
