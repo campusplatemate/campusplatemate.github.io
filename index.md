@@ -38,6 +38,10 @@ Sign out page:
 
 ![](images/signout.png)
 
+### Add Food Page
+
+![](images/addfood.png)
+
 ### Rewards Page
 
 ![](images/rewards-page.png)
