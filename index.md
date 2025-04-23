@@ -29,6 +29,7 @@ Regarding the look of our website, we want to include elements like a navigation
 Sign in page and Sign up page:
 
 ![](images/signin-slide.png)
+
 ![](images/signup-slide.png)
 
 This is a slider form where you can choose to sign in or sign up (Create Account).
