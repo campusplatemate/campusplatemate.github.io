@@ -4,7 +4,7 @@
 
 - [Overview](#overview)
 - [Goals](#goals)
-- [Mockup Ideas](#mockup-ideas)
+- [User Guide](#user-guide)
 - [Team](#team)
 
 ## Overview
@@ -20,9 +20,9 @@ Campus Plate Mate is a web application that provides pages to view and places to
 
 As a team, we plan on creating a website where users can offer up or exchange leftover or unused foods within the UH Manoa area. We want to utilize all skills learned while taking our software engineering class like creating data bases, programming pages for user interaction, and using UI and CSS tools for our website's design.
 
-## Mockup Ideas
+## User Guide
 
-Regarding the look of our website, we want to include elements like a navigation bar, a center page, and a footer. We look to setups like these for inspiration while building our website:
+Below you can find a guide through our website:
 
 [![ci-application workflow](https://github.com/campusplatemate/application/actions/workflows/ci.yml/badge.svg?branch=issue-19)](https://github.com/jaylin-m/campusplatemate/application/actions/workflows/ci.yml)
 
@@ -43,6 +43,10 @@ Sign out page:
 ### Add Food Page
 
 ![](images/addfoodpage.png)
+
+### Dashboard
+
+![](images/dashboard.png)
 
 ### Rewards Page
 
