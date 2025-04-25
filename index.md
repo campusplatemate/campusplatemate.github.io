@@ -24,7 +24,7 @@ As a team, we plan on creating a website where users can offer up or exchange le
 
 Regarding the look of our website, we want to include elements like a navigation bar, a center page, and a footer. We look to setups like these for inspiration while building our website:
 
-### Sign In/Sign up Slider, Sign Out Page, and Footer
+### Sign In/Sign up Slider and Sign Out Page
 
 Sign in page and Sign up page:
 
@@ -33,8 +33,6 @@ Sign in page and Sign up page:
 ![](images/signup-slide.png)
 
 This is a slider form where you can choose to sign in or sign up (Create Account).
-
-The footer allows the user to send feedback.
 
 Sign out page:
 
@@ -52,11 +50,15 @@ Sign out page:
 
 ![](images/image.png)
 
-### About page
+### About page and Footer
 
 Before you log in, you can learn more about our project at the About page:
 
 ![](images/aboutpagenew.png)
+
+![](images/footer.png)
+
+The footer allows the user to send feedback.
 
 ## Further Inspiration
 
