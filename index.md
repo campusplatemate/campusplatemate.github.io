@@ -5,8 +5,9 @@
 - [Overview](#overview)
 - [Goals](#goals)
 - [User Guide](#user-guide)
-- [Team](#team)
 - [Developer Guide](#developer-guide)
+- [Project Boards](#project-boards)
+- [Team](#team)
 
 ## Overview
 
@@ -69,6 +70,8 @@ The footer allows the user to send feedback.
 
 ### View Our Deployment
 
+Take a look at our project's [deployment through Vercel](https://plate-mate-bice.vercel.app/).
+
 ![](images/applicationdb.png)
 
 ## Developer Guide
@@ -85,6 +88,10 @@ $ npm install
 $ npm run dev
 ```
 - Lastly, navigate to http://localhost:3000 to see the application running.
+
+## Project Boards
+
+View the tasks we've completed for the project thus far for [Milestone 2](https://github.com/orgs/campusplatemate/projects/7) and [Milestone 3](https://github.com/orgs/campusplatemate/projects/8).
 
 ## Team
 
