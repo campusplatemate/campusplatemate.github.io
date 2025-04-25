@@ -40,7 +40,7 @@ Sign out page:
 
 ### Add Food Page
 
-![](images/addfood.png)
+![](images/addfoodpage.png)
 
 ### Rewards Page
 
