@@ -44,7 +44,7 @@ Sign out page:
 
 ### Rewards Page
 
-![](images/rewards-page.png)
+![](images/rewardspage.png)
 
 ### Profile Page
 
@@ -54,7 +54,7 @@ Sign out page:
 
 Before you log in, you can learn more about our project at the About page:
 
-![](images/landing.png)
+![](images/aboutpagenew.png)
 
 ## Further Inspiration
 
