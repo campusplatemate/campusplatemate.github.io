@@ -24,6 +24,8 @@ As a team, we plan on creating a website where users can offer up or exchange le
 
 Regarding the look of our website, we want to include elements like a navigation bar, a center page, and a footer. We look to setups like these for inspiration while building our website:
 
+[![ci-application workflow](https://github.com/campusplatemate/application/actions/workflows/ci.yml/badge.svg?branch=issue-19)](https://github.com/jaylin-m/campusplatemate/application/actions/workflows/ci.yml)
+
 ### Sign In/Sign up Slider and Sign Out Page
 
 Sign in page and Sign up page:
@@ -59,22 +61,6 @@ Before you log in, you can learn more about our project at the About page:
 ![](images/footer.png)
 
 The footer allows the user to send feedback.
-
-## Further Inspiration
-
-For pages we have not constructed yet, here are our inspiration mockups!
-
-### Home page
-
-After logging in, you are taken to the home page, which presents a form where you can complete and/or update your personal profile:
-
-![](images/mainPage.png)
-
-### Plates page
-
-Once you are logged in, you can view, request, or post meals with the Plates page:
-
-![](images/dashboardPage.png)
 
 ## Team
 
