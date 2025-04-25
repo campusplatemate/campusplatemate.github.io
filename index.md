@@ -66,6 +66,21 @@ Before you log in, you can learn more about our project at the About page:
 
 The footer allows the user to send feedback.
 
+## Developer Guide
+- First, [install GitHub Desktop](https://desktop.github.com/).
+- Second, go to [the Campus Plate Mate repo](https://campusplatemate.github.io/), click the "Code" dropdown and clone the digits repo (i.e. using the "Open with GitHub Desktop" option).
+- Third, cd into the app/ directory of your local copy of *Campus Plate Mate**, and install third party libraries via cmd or PowerShell:
+
+```
+$ npm install
+```
+- Fourth, once the libraries are installed, you can run the application by invoking the following:
+
+```
+$ npm run dev
+```
+- Lastly, navigate to http://localhost:3000 to see the application running.
+
 ## Team
 
 Campus Plate Mate is designed, implemented, and maintained by [Ka'ili Benavente](https://kailibenavente.github.io), [Kimi Qi](https://kqimi.github.io/), [Jaylin Morimoto](https://jaylin-m.github.io/), [Ruhi Pirnia](https://rpirnia.github.io/), [Naydel Espiritu](https://naydelly.github.io/), and [Lou Rae Robles](https://lrrobles.github.io/).
