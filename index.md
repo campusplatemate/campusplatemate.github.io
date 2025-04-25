@@ -6,6 +6,7 @@
 - [Goals](#goals)
 - [User Guide](#user-guide)
 - [Team](#team)
+- [Developer Guide](#developer-guide)
 
 ## Overview
 
