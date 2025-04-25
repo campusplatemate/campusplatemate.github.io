@@ -67,6 +67,10 @@ Before you log in, you can learn more about our project at the About page:
 
 The footer allows the user to send feedback.
 
+### View Our Deployment
+
+![](images/applicationdb.png)
+
 ## Developer Guide
 - First, [install GitHub Desktop](https://desktop.github.com/).
 - Second, go to [the Campus Plate Mate repo](https://campusplatemate.github.io/), click the "Code" dropdown and clone the digits repo (i.e. using the "Open with GitHub Desktop" option).
