@@ -91,7 +91,7 @@ $ npm run dev
 
 ## Project Boards
 
-View the tasks we've completed for the project thus far for [Milestone 2](https://github.com/orgs/campusplatemate/projects/7) and [Milestone 3](https://github.com/orgs/campusplatemate/projects/8).
+View the tasks we've completed for the project thus far for [Milestone 1](https://github.com/orgs/campusplatemate/projects/4), [Milestone 2](https://github.com/orgs/campusplatemate/projects/7) and [Milestone 3](https://github.com/orgs/campusplatemate/projects/8).
 
 ## Team
 
