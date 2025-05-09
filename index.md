@@ -21,21 +21,6 @@ Campus Plate Mate is a web application that provides pages to share food and cla
 
 As a team, we plan on creating a website where users can offer up or exchange leftover or unused foods within the UH Manoa area. We want to utilize all skills learned while taking our software engineering class like creating data bases, programming pages for user interaction, and using UI and CSS tools for our website's design.
 
-## Developer Guide
-- First, [install GitHub Desktop](https://desktop.github.com/).
-- Second, go to [the Campus Plate Mate repo](https://github.com/campusplatemate/application), click the "Code" dropdown and clone the digits repo (i.e. using the "Open with GitHub Desktop" option).
-- Third, cd into the app/ directory of your local copy of *Campus Plate Mate**, and install third party libraries via cmd or PowerShell:
-
-```
-$ npm install
-```
-- Fourth, once the libraries are installed, you can run the application by invoking the following:
-
-```
-$ npm run dev
-```
-- Lastly, navigate to http://localhost:3000 to see the application running.
-
 ## User Guide
 
 Below you can find a guide through our website:
@@ -86,6 +71,21 @@ Sign out page:
 ### Profile Page
 
 ![](images/image.png)
+
+## Developer Guide
+- First, [install GitHub Desktop](https://desktop.github.com/).
+- Second, go to [the Campus Plate Mate repo](https://github.com/campusplatemate/application), click the "Code" dropdown and clone the digits repo (i.e. using the "Open with GitHub Desktop" option).
+- Third, cd into the app/ directory of your local copy of *Campus Plate Mate**, and install third party libraries via cmd or PowerShell:
+
+```
+$ npm install
+```
+- Fourth, once the libraries are installed, you can run the application by invoking the following:
+
+```
+$ npm run dev
+```
+- Lastly, navigate to http://localhost:3000 to see the application running.
 
 ### View Our Deployment
 
