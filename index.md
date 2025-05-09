@@ -28,10 +28,20 @@ Below you can find a guide through our website:
 
 [![ci-application workflow](https://github.com/campusplatemate/application/actions/workflows/ci.yml/badge.svg?branch=issue-19)](https://github.com/jaylin-m/campusplatemate/application/actions/workflows/ci.yml)
 
-### Landing Page
+### Landing Page and Footer
 The first page you see when you launch the application. Here, you will see a brief introduction to the website and its functionality.
 
+![](images/landingpage-1.png)
 
+![](images/landingpage-2.png)
+
+![](images/landingpage-3.png)
+
+![](images/landingpage-4.png)
+
+![](images/footer.png)
+
+On our footer, you can send us feedback on what to improve on!
 
 ### Sign In/Sign up Slider and Sign Out Page
 
