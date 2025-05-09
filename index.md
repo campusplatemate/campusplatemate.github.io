@@ -66,7 +66,13 @@ Sign out page:
 
 ### Rewards Page
 
-![](images/rewardspage.png)
+![](images/rewardspage-1.png)
+
+![](images/rewardspage-2.png)
+
+![](images/rewardspage-3.png)
+
+
 
 ### Profile Page
 
