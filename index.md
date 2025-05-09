@@ -4,8 +4,8 @@
 
 - [Overview](#overview)
 - [Goals](#goals)
-- [User Guide](#user-guide)
 - [Developer Guide](#developer-guide)
+- [User Guide](#user-guide)
 - [Project Boards](#project-boards)
 - [Team](#team)
 
@@ -21,12 +21,6 @@ Campus Plate Mate is a web application that provides pages to share food and cla
 
 As a team, we plan on creating a website where users can offer up or exchange leftover or unused foods within the UH Manoa area. We want to utilize all skills learned while taking our software engineering class like creating data bases, programming pages for user interaction, and using UI and CSS tools for our website's design.
 
-## User Guide
-
-Below you can find a guide through our website:
-
-[![ci-application workflow](https://github.com/campusplatemate/application/actions/workflows/ci.yml/badge.svg?branch=issue-19)](https://github.com/jaylin-m/campusplatemate/application/actions/workflows/ci.yml)
-
 ## Developer Guide
 - First, [install GitHub Desktop](https://desktop.github.com/).
 - Second, go to [the Campus Plate Mate repo](https://campusplatemate.github.io/), click the "Code" dropdown and clone the digits repo (i.e. using the "Open with GitHub Desktop" option).
@@ -41,6 +35,12 @@ $ npm install
 $ npm run dev
 ```
 - Lastly, navigate to http://localhost:3000 to see the application running.
+
+## User Guide
+
+Below you can find a guide through our website:
+
+[![ci-application workflow](https://github.com/campusplatemate/application/actions/workflows/ci.yml/badge.svg?branch=issue-19)](https://github.com/jaylin-m/campusplatemate/application/actions/workflows/ci.yml)
 
 ### Landing Page and Footer
 The first page you see when you launch the application. Here, you will see a brief introduction to the website and its functionality.
