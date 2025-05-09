@@ -4,8 +4,9 @@
 
 - [Overview](#overview)
 - [Goals](#goals)
-- [Developer Guide](#developer-guide)
 - [User Guide](#user-guide)
+- [Community Feedback](#community-feedback)
+- [Developer Guide](#developer-guide)
 - [Project Boards](#project-boards)
 - [Team](#team)
 
