@@ -60,9 +60,15 @@ Sign out page:
 
 ![](images/addfoodpage.png)
 
+From left to right, enter your Name, name of the Food, Image of the food, the Quantity you are giving away, the Location of pick up, the Best Before date, and a Description to create a post which will appear on the dashboard.
+
 ### Dashboard
 
-![](images/dashboard.png)
+![](images/dashboard-1.png)
+
+![](images/dashboard-2.png)
+
+This is where users post the food they want to give away. Only owners of the posts are able to edit or delete a post.
 
 ### Rewards Page
 
@@ -72,11 +78,18 @@ Sign out page:
 
 ![](images/rewardspage-3.png)
 
-
+In our rewards page, you can redeem your points (which we unfortunately did not implement at the time of writing this) for rewards. You can choose the amount you want to order.
 
 ### Profile Page
 
-![](images/image.png)
+![](images/profilepage.png)
+
+## Community Feedback
+
+We talked to five members of the UH community and had told us about the following:
+- Get the claim button to work
+- Add a navbar
+- Move the location of the button when posting a food
 
 ## Developer Guide
 - First, [install GitHub Desktop](https://desktop.github.com/).
