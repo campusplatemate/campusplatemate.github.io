@@ -42,6 +42,8 @@ Below you can find a guide through our website:
 
 [![ci-application workflow](https://github.com/campusplatemate/application/actions/workflows/ci.yml/badge.svg?branch=issue-19)](https://github.com/jaylin-m/campusplatemate/application/actions/workflows/ci.yml)
 
+[![ci-application](https://github.com/campusplatemate/application/actions/workflows/ci.yml/badge.svg)](https://github.com/campusplatemate/application/actions/workflows/ci.yml)
+
 ### Landing Page and Footer
 The first page you see when you launch the application. Here, you will see a brief introduction to the website and its functionality.
 
