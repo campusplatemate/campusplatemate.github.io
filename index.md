@@ -87,16 +87,6 @@ Sign out page:
 
 ![](images/image.png)
 
-### About page and Footer
-
-Before you log in, you can learn more about our project at the About page:
-
-![](images/aboutpagenew.png)
-
-![](images/footer.png)
-
-The footer allows the user to send feedback.
-
 ### View Our Deployment
 
 Take a look at our project's [deployment through Vercel](https://plate-mate-bice.vercel.app/).
