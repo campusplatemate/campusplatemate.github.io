@@ -84,6 +84,12 @@ In our rewards page, you can redeem your points (which we unfortunately did not 
 
 ![](images/profilepage.png)
 
+### Admin Page - Feedback
+
+![](images/admin-feedback.png)
+
+The Admin can view the feedback submitted by the users here.
+
 ## Community Feedback
 
 We talked to five members of the UH community and had told us about the following:
