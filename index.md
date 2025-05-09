@@ -11,12 +11,11 @@
 
 ## Overview
 
-Campus Plate Mate is a web application that provides pages to view and places to modify profiles, projects, and interests. It illustrates various technologies useful to ICS software engineering students, including:
+Campus Plate Mate is a web application that provides pages to share food and claim rewards. It illustrates various technologies useful to ICS software engineering students, including:
 
-- [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
+- [Next.js](https://nextjs.org/) which enables the creation of web applications with React components.
 - [React](https://reactjs.org/) for component-based UI implementation and routing.
 - [React Bootstrap](https://react-bootstrap.github.io/) CSS Framework for UI design.
-- [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
 ## Goals
 
@@ -27,6 +26,21 @@ As a team, we plan on creating a website where users can offer up or exchange le
 Below you can find a guide through our website:
 
 [![ci-application workflow](https://github.com/campusplatemate/application/actions/workflows/ci.yml/badge.svg?branch=issue-19)](https://github.com/jaylin-m/campusplatemate/application/actions/workflows/ci.yml)
+
+## Developer Guide
+- First, [install GitHub Desktop](https://desktop.github.com/).
+- Second, go to [the Campus Plate Mate repo](https://campusplatemate.github.io/), click the "Code" dropdown and clone the digits repo (i.e. using the "Open with GitHub Desktop" option).
+- Third, cd into the app/ directory of your local copy of *Campus Plate Mate**, and install third party libraries via cmd or PowerShell:
+
+```
+$ npm install
+```
+- Fourth, once the libraries are installed, you can run the application by invoking the following:
+
+```
+$ npm run dev
+```
+- Lastly, navigate to http://localhost:3000 to see the application running.
 
 ### Landing Page and Footer
 The first page you see when you launch the application. Here, you will see a brief introduction to the website and its functionality.
@@ -88,21 +102,6 @@ The footer allows the user to send feedback.
 Take a look at our project's [deployment through Vercel](https://plate-mate-bice.vercel.app/).
 
 ![](images/applicationdb.png)
-
-## Developer Guide
-- First, [install GitHub Desktop](https://desktop.github.com/).
-- Second, go to [the Campus Plate Mate repo](https://campusplatemate.github.io/), click the "Code" dropdown and clone the digits repo (i.e. using the "Open with GitHub Desktop" option).
-- Third, cd into the app/ directory of your local copy of *Campus Plate Mate**, and install third party libraries via cmd or PowerShell:
-
-```
-$ npm install
-```
-- Fourth, once the libraries are installed, you can run the application by invoking the following:
-
-```
-$ npm run dev
-```
-- Lastly, navigate to http://localhost:3000 to see the application running.
 
 ## Project Boards
 
