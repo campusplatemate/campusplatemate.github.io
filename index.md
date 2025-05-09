@@ -23,7 +23,7 @@ As a team, we plan on creating a website where users can offer up or exchange le
 
 ## Developer Guide
 - First, [install GitHub Desktop](https://desktop.github.com/).
-- Second, go to [the Campus Plate Mate repo]([https://campusplatemate.github.io/](https://github.com/campusplatemate/application)), click the "Code" dropdown and clone the digits repo (i.e. using the "Open with GitHub Desktop" option).
+- Second, go to [the Campus Plate Mate repo](https://github.com/campusplatemate/application), click the "Code" dropdown and clone the digits repo (i.e. using the "Open with GitHub Desktop" option).
 - Third, cd into the app/ directory of your local copy of *Campus Plate Mate**, and install third party libraries via cmd or PowerShell:
 
 ```
